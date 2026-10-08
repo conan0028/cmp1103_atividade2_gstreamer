@@ -61,4 +61,4 @@ Antes de iniciar, certifique-se de que a constante do caminho do ficheiro WebM n
 # Para testar o áudio degradado (8kHz / 8-bit / Mono)
 ```
 ./pipeline_atividade2_b
-```# cmp1103_atividade2_gstreamer
+```

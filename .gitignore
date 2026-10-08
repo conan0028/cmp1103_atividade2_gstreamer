@@ -4,6 +4,7 @@ cmake-build-*/
 
 # Ficheiros de Configuração e Cache do CMake
 CMakeCache.txt
+CMakeLists.txt
 CMakeFiles/
 Makefile
 cmake_install.cmake
@@ -15,6 +16,7 @@ cmake_install.cmake
 pipeline_atividade2_a
 pipeline_atividade2_b
 flashback_pipeline
+flashback_pipeline.c
 
 # Mídia (Evita fazer commit acidental de vídeos/áudios pesados)
 *.webm
